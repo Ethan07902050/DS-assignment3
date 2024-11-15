@@ -92,7 +92,7 @@ Each configuration is stored in `src/main/resources`. The expected result is tha
     - `M3`: Proposes with a small delay to simulate mixed connectivity.
     - `M4` to `M6`: Respond immediately without proposing.
     - `M7` to `M9`: Go offline (do not respond).
-6. `config_mixed_responses_1.json`
+6. `config_mixed_responses_2.json`
     - `M1`: Proposes and responds immediately.
     - `M2`: Proposes with a large delay to simulate poor internet.
     - `M3`: Goes offline (does not respond at all).
