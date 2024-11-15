@@ -1,0 +1,13 @@
+{
+  "members": [
+    {"id": "M1", "proposedValue": "M1", "responseType": "immediate"},
+    {"id": "M2", "proposedValue": "M2", "responseType": "large_delay"},
+    {"id": "M3", "proposedValue": "M3", "responseType": "immediate"},
+    {"id": "M4", "proposedValue": null, "responseType": "immediate"},
+    {"id": "M5", "proposedValue": null, "responseType": "immediate"},
+    {"id": "M6", "proposedValue": null, "responseType": "immediate"},
+    {"id": "M7", "proposedValue": null, "responseType": "immediate"},
+    {"id": "M8", "proposedValue": null, "responseType": "immediate"},
+    {"id": "M9", "proposedValue": null, "responseType": "immediate"}
+  ]
+}
